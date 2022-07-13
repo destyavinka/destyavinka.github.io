@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Indeks Kepuasan Masyarakat",
+    "desc": "Create a website Survey Kepuasan & Indeks Kepuasan Masyarakat Polres Karanganyar using Laravel Framework",
+    "image": "p1.jpeg",
+    "category": "website",
+    "links": {
+      "view": "https://v3420020.mhs.d3tiuns.com/",
+      "code": "https://github.com/destyavinka/Sistem-Kepuasan-Masyarakat"
+    }
+  },
+  {
+    "name": "Jual.In",
+    "desc": "Create a website Jual.In to sell electronic things using PHP based",
+    "image": "p2.PNG",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/destyavinka/jualin"
+    }
+  },
+  {
+    "name": "Sistem Administrasi Berita",
+    "desc": "User can add, edit, and upload some several news using CodeIgniter",
+    "image": "p3.png",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/destyavinka/SistemAdminBerita"
+    }
+  },
+  {
+    "name": "Database dan Backup Project",
+    "desc": "Create a website to store the database, if a system failure that cause data to be lost, admin can easily restore the lost data.",
+    "image": "p4.jpeg",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/destyavinka/Database-dan-Backup"
+    }
+  },
+  {
+    "name": "Motorcycle Credit Simulation",
+    "desc": "Create a website to calculate motorcycle credit payment",
+    "image": "p5.png",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/destyavinka/Sistem-Kredit-Motor"
+    }
+  },
+  {
+    "name": "Aplikasi Penjualan E-Cole",
+    "desc": "Desiain Aplikasi E-commerce Detergen E-cole",
+    "image": "p6.png",
+    "category": "UI/UX Design",
+    "links": {
+      "code": "https://www.figma.com/file/7KhWAI8i3hnmC8dXhsDSXH/Aplikasi-Penjualan-Deterjen-E-cole?node-id=0%3A1"
+    }
+  },
+  {
+    "name": "SKM & IKM Design",
+    "desc": "Desain Web Survey Kepuasan Masyarakat.",
+    "image": "p7.png",
+    "category": "UI/UX Design",
+    "links": {
+      "code": "https://www.figma.com/file/B4CxygSovSTsc1Sia2xZkD/IKM-Polres-Karanganyar?node-id=2%3A115"
+    }
+  },
+  {
+    "name": "Buku Tamu Digital",
+    "desc": "Desain Aplikasi Buku Tamu Digital",
+    "image": "p8.png",
+    "category": "UI/UX Design",
+    "links": {
+      "code": "https://www.figma.com/file/IeW06kxOMIuFT6oonuhRqC/Buku-Tamu-Digital?node-id=2%3A326"
+    }
+  },
+  {
+    "name": "Aplikasi Agency Rumah",
+    "desc": "Desain Aplikasi Agency / Rekap Jual Beli Rumah",
+    "image": "p9.png",
+    "category": "UI/UX Design",
+    "links": {
+      "code": "https://www.figma.com/file/dUAWLR9sVRinghzfiKYXSj/Aplikasi-Penjualan-Rumah?node-id=1%3A679"
+    }
+  },
+  {
+    "name": "Aplikasi Wisata Klaten",
+    "desc": "Desain Aplikasi Macam-Macam Wisata Umbul di Klaten",
+    "image": "p10.png",
+    "category": "UI/UX Design",
+    "links": {
+      "code": "https://www.figma.com/file/ayQlSKugV1LB3rTqDTvOmd/Referensi-Wisata-Umbul-di-Klaten?node-id=2%3A54"
+    }
+  },
+  {
+    "name": "Upcoming project..",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "code": ""
+    }
+  },
+  {
+    "name": "",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "code": ""
+    }
+  }
+]
